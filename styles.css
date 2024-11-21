@@ -107,3 +107,15 @@ footer p:hover {
 footer p:active {
   background-color: #b6582d;
 }
+
+body {
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
